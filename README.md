@@ -13,9 +13,9 @@
 - リアル感情認識を実装したい場合はどのようなAPIが良いのか、もしくはAPI以外の方法もあるかどうか検討したい。
 
 ## ④その他（感想、シェアしたいことなんでも）
-- とてもお世話になった参考URL
-APIの組み込み方（動画）:　https://www.youtube.com/watch?v=SLmnVTABYsc
-APIの組み込み方（）:　https://github.com/mspjp/20210721-FaceAPI
-Pythonってどんな言語なの？：https://atmarkit.itmedia.co.jp/ait/articles/1904/02/news024.html
-Python for Win インストール: https://www.python.org/
+- 大変お世話になった参考URL
+- APIの組み込み方（動画）:　https://www.youtube.com/watch?v=SLmnVTABYsc
+- APIの組み込み方（Github）:　https://github.com/mspjp/20210721-FaceAPI
+- Pythonってどんな言語なの？：https://atmarkit.itmedia.co.jp/ait/articles/1904/02/news024.html
+- Python for Win インストール: https://www.python.org/
   
